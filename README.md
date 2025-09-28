@@ -1,1 +1,1 @@
-In this repository, you will find my solutions to the Canadian Computing Contests. For the year 2025, 2024, and 2023, you will find my live contest codes. Hope this helps!
+In this repository, you will find my coding projects. From my solutions to the Canadian Computing Contests to the funsies I built through programming! For the year 2025, 2024, and 2023, you will find my live CCC contest codes. Hope this helps!
